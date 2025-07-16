@@ -1,0 +1,11 @@
+﻿  FileName.cpp
+C:\Users\19945\source\repos\友希那抓喵喵\友希那抓喵喵\FileName.cpp(151,45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19945\source\repos\友希那抓喵喵\友希那抓喵喵\FileName.cpp(246,32): warning C4477: “swprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      C:\Users\19945\source\repos\友希那抓喵喵\友希那抓喵喵\FileName.cpp(246,32):
+      请考虑在格式字符串中使用“%zd”
+  
+C:\Users\19945\source\repos\友希那抓喵喵\友希那抓喵喵\FileName.cpp(247,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19945\source\repos\友希那抓喵喵\友希那抓喵喵\FileName.cpp(305,49): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19945\source\repos\友希那抓喵喵\友希那抓喵喵\FileName.cpp(326,49): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\19945\source\repos\友希那抓喵喵\友希那抓喵喵\FileName.cpp(402,53): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  友希那抓喵喵.vcxproj -> C:\Users\19945\source\repos\友希那抓喵喵\x64\Debug\友希那抓喵喵.exe
